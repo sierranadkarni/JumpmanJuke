@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/World.umap",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/World.umap",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Blueprints/BP_DoubleJump.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Red.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Gold.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Blueprints/BP_Speed.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Gold.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Pink.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Purple.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Red.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/8C/0ZAQWJ4MW5T90WAOCS9XDU.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/25/U2V1BW6CWNRIKCW003YAEM.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Blueprints/BP_Gravity.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Orange.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Blueprints/BP_Win.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/KL/VT5DTPMBN47QOS9AN03K7O.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/IM/2OMA5KEHCI0IHDJL4E1YK8.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/casual_jar_of_raspberry_jam.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/casual_jar_of_raspberry_jam_texture_0.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/casual_jar_of_raspberry_jam_texture_1.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/casual_jar_of_raspberry_jam_texture_2.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/main.uasset"
+			]
+		}
+	]
+}
