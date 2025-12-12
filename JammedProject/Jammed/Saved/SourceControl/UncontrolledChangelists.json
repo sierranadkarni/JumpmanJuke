@@ -9,11 +9,8 @@
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/World.umap",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/World.umap",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Blueprints/BP_DoubleJump.uasset",
-				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Red.uasset",
-				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Gold.uasset",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Blueprints/BP_Speed.uasset",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Gold.uasset",
-				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Pink.uasset",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Purple.uasset",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Red.uasset",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/8C/0ZAQWJ4MW5T90WAOCS9XDU.uasset",
@@ -28,7 +25,11 @@
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/casual_jar_of_raspberry_jam_texture_0.uasset",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/casual_jar_of_raspberry_jam_texture_1.uasset",
 				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/casual_jar_of_raspberry_jam_texture_2.uasset",
-				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/main.uasset"
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Fab/Casual_Jar_of_Raspberry_Jam/main.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/Blueprints/BP_Coins.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Red.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Gold.uasset",
+				"W:/My Documents/Github/JumpmanJuke/JammedProject/Jammed/Content/ProjectFiles/Materials/Pink.uasset"
 			]
 		}
 	]
