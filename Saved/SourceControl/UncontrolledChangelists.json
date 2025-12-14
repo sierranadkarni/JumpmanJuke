@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/MainScene.umap",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/BP_Barrel.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/BP_Chute.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/BP_DestroyBarrel.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/PM_frictionless.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/BP_Player.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/GM_DK.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/PC_DK.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/input/IMC_default.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/input/IA_Movement.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/input/IA_Jump.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/PlayerStart.uasset",
+				"C:/Users/dudam/OneDrive/Documents/GitHub/JumpmanJuke/Content/ProjectFiles/Move.uasset"
+			]
+		}
+	]
+}
